@@ -1,0 +1,18 @@
+{
+    "name": "matheus-gon-alves/smart-kyc",
+    "require-dev": {
+        "laravel/laravel": "^11.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "MatheusGonAlves\\SmartKyc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus-Dev-Souza",
+            "email": "goncalvesouza1996@gmail.com"
+        }
+    ],
+    "require": {}
+}
